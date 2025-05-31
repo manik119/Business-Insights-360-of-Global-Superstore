@@ -6,6 +6,7 @@ The core business challenge is to effectively monitor and analyze multifaceted s
 
 ## Data Architecture
 Conceptually, this project is best supported by a Snowflake Schema in the data warehouse.
+
 Key Features & Technical Implementation: Parameters for Enhanced User Experience & Compactness.
     * Category Filters: Parameters are used to allow users to filter the view by product categories (Technology, Furniture, Office Supplies) across multiple pages, making dashboards more compact and focused.
     * Time Series Filters: Dynamic parameters (M/Q/Y buttons) enable switching chart views between Month, Quarter, and Year for trend analysis, providing clarity and flexibility without cluttering the dashboard. This design also enhances the scope for future automation of periodic reports.
