@@ -28,6 +28,6 @@ Conceptually, this project is best supported by a Snowflake Schema in the data w
 *DAX Studio: Utilized for developing, testing, and optimizing complex DAX measures.
 
 ## Key Insights from the Dashboard"
-* Critical Profitability Concern in Furniture:** The Furniture category requires immediate attention for cost and price optimization, as its profit margins are notably low at 6.94%.
-* Underperforming Salespeople Identified:** Specific salespeople, namely Cansu Peynirci, Katlego Akosua, and Kaoru Xun, consistently exhibit negative profit margins, averaging -21.87%, indicating a need for urgent review and intervention.
-* Standout "Hero Product" Performance:** The Canon imageCLASS 2200 copier is a significant "hero product," boasting an extremely high Average Order Value (AOV) of $12,319.96 and remarkable year-over-year sales growth of 137.8%.
+* Critical Profitability Concern in Furniture: The Furniture category requires immediate attention for cost and price optimization, as its profit margins are notably low at 6.94%.
+* Underperforming Salespeople Identified: Specific salespeople, namely Cansu Peynirci, Katlego Akosua, and Kaoru Xun, consistently exhibit negative profit margins, averaging -21.87%, indicating a need for urgent review and intervention.
+* Standout "Hero Product" Performance: The Canon imageCLASS 2200 copier is a significant "hero product," boasting an extremely high Average Order Value (AOV) of $12,319.96 and remarkable year-over-year sales growth of 137.8%.
