@@ -20,14 +20,13 @@ Conceptually, this project is best supported by a Snowflake Schema in the data w
         * Average Order Value (AOV).
         * Median-based calculations for salesperson performance quadrants.
 
-## Tech Stack
+## Tech Stack:
+* Power BI: Core tool for data modeling, DAX calculations, visualization, and dashboard creation.
+* Power Query: Used within Power BI for data extraction, transformation, and loading (ETL) processes.
+* Excel: Potential source for raw data or supplementary information.
+* DAX Studio: Utilized for developing, testing, and optimizing complex DAX measures.
 
-*Power BI: Core tool for data modeling, DAX calculations, visualization, and dashboard creation.
-*Power Query: Used within Power BI for data extraction, transformation, and loading (ETL) processes.
-*Excel: Potential source for raw data or supplementary information.
-*DAX Studio: Utilized for developing, testing, and optimizing complex DAX measures.
-
-## Key Insights from the Dashboard"
+## Key Insights from the Dashboard:
 * Critical Profitability Concern in Furniture: The Furniture category requires immediate attention for cost and price optimization, as its profit margins are notably low at 6.94%.
-* Underperforming Salespeople Identified: Specific salespeople, namely Cansu Peynirci, Katlego Akosua, and Kaoru Xun, consistently exhibit negative profit margins, averaging -21.87%, indicating a need for urgent review and intervention.
+* Underperforming Salespeople Identified: Specific salespeople, consistently exhibit negative profit margins, averaging -21.87%, indicating a need for urgent review and intervention.
 * Standout "Hero Product" Performance: The Canon imageCLASS 2200 copier is a significant "hero product," boasting an extremely high Average Order Value (AOV) of $12,319.96 and remarkable year-over-year sales growth of 137.8%.
