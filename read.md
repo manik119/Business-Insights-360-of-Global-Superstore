@@ -1,6 +1,6 @@
 # Global Superstore - 360° Business Insights Power BI Dashboard
 
-## Guiding principle: "The best reports don’t look clever. They look obvious." The primary aim of this dashboard is to **automate KPI tracking** and provide a **centralized, detailed view of business performance** that allows for deeper dives when necessary.
+## Guiding principle: "The best reports don’t look clever. They look obvious." The primary aim of this dashboard is to automate KPI tracking and provide a centralized, detailed view of business performance that allows for deeper dives when necessary.
 ## Business Problem:
 The core business challenge is to effectively monitor and analyze multifaceted superstore operations to identify growth opportunities, mitigate risks, and optimize performance and automation across various departments. 
 
