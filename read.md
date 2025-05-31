@@ -5,7 +5,7 @@
 The core business challenge is to effectively monitor and analyze multifaceted superstore operations to identify growth opportunities, mitigate risks, and optimize performance and automation across various departments. 
 
 ## Data Architecture
-Conceptually, this project is best supported by a Snowflake Schema** in the data warehouse.
+Conceptually, this project is best supported by a Snowflake Schema in the data warehouse.
 
 ## Key Features & Technical Implementation: Parameters for Enhanced User Experience & Compactness.
     * Category Filters: Parameters are used to allow users to filter the view by product categories (Technology, Furniture, Office Supplies) across multiple pages, making dashboards more compact and focused.
@@ -13,7 +13,7 @@ Conceptually, this project is best supported by a Snowflake Schema** in the data
 
 ## DAX Measures for Complex Calculations:
     * Time Intelligence: Extensive use of DAX time intelligence functions, such as `DATEADD`, `SAMEPERIODLASTYEAR`, `TOTALYTD/QTD/MTD` (conceptual, based on YoY, QoQ, MoM needs). 
-      The importance of a comprehensive *Date Table* marked as such in Power BI is central to these calculations, enabling accurate comparisons like Sales Last Year (Sales LY), Profit Last Year (Profit LY), Month-over-Month (MoM) growth, and Quarter-over-Quarter (QoQ) growth. [cite: 22, 28, 32, 33, 46, 47, 54, 63, 64]
+      The importance of a comprehensive *Date Table* marked as such in Power BI is central to these calculations, enabling accurate comparisons like Sales Last Year (Sales LY), Profit Last Year (Profit LY), Month-over-Month (MoM) growth, and Quarter-over-Quarter (QoQ) growth.
     * KPI Development: Custom DAX measures were created for all key performance indicators, including:
         * YoY Growth % for Sales, Profit, Quantity, Orders (e.g., Total Sales +26.25% YoY).
         * Profit Margins (Overall, by Category, by Salesperson, by Product).
